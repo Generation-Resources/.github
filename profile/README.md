@@ -19,7 +19,7 @@ This is where ***Generation Instructional Staff*** can find the *Master versions
 
 - Repositories hosted here are for Staff use only
 - Master Repos hosted here are available as *Template Repositories* that can be easily copied and modified as you see fit for your own cohort
-  - To use a Master Repository as a template, navigate to the repository you want to use and click on the green `Use this template` button, then select `Create a new repository`. You can  transfer ownership of the repository to the Gen-USA-Learners account so your learners can find it easily and have access to the site documentation
+  - To use a Master Repository as a template, navigate to the repository you want to use and click on the green `Use this template` button, then select `Create a new repository`. You can create the repository under the ownership of GenUSA Learners account to start, or transfer ownership of the repository to the Gen-USA-Learners later - this is important for consistency and so your learners can find it easily and have access to the site documentation
 
 - Activities and solves you may want to use or add to your class repo are located in Activity Bank repositories.
   - JWD Staff:
